@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Graywood County Digital Archive</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+
+<h1>Graywood County Digital Archive</h1>
+
+<p class="subtitle">
+Municipal Records • Newspapers • Public Notices • Historical Collections
+</p>
+
+<hr>
+
+<nav>
+<a href="../index.html">Home</a> |
+<a href="../archive.html">Collections</a> |
+<a href="../search.html">Search</a> |
+<a href="../about.html">About</a>
+</nav>
+
+<hr>
+
+</header>
+
+
+
+<main>
+
+<a class="backlink" href="../archive.html">
+← Return to Archive
+</a>
+
+<h2 class="paper">
+Graywood Gazette
+</h2>
+
+<p class="date">
+Wednesday, June 17, 1932
+</p>
+
+<h1 class="title">
+Fire Claims Seven Lives at Old Cooper Mill
+</h1>
+
+<p class="author">
+By Eleanor Wright | Staff Reporter
+</p>
+
+<div class="metadata">
+
+<h3>Archive Information</h3>
+
+<table>
+
+<tr>
+<td><strong>Archive ID</strong></td>
+<td>GW-1932-NP-014</td>
+</tr>
+
+<tr>
+<td><strong>Collection</strong></td>
+<td>Graywood Gazette</td>
+</tr>
+
+<tr>
+<td><strong>Document Type</strong></td>
+<td>Newspaper</td>
+</tr>
+
+<tr>
+<td><strong>Original Publication</strong></td>
+<td>June 17, 1932</td>
+</tr>
+
+<tr>
+<td><strong>Digitized</strong></td>
+<td>April 12, 2007</td>
+</tr>
+
+<tr>
+<td><strong>Condition</strong></td>
+<td>Complete</td>
+</tr>
+
+</table>
+
+</div>
+
+<article>
+
+<p>
+Authorities continue to investigate yesterday's fire that destroyed the abandoned
+Cooper Textile Mill shortly after midnight. Local residents reported hearing
+what several witnesses described as "metal striking stone" moments before the
+first flames became visible.
+</p>
+
+<p>
+County Fire Chief Harold Bennett stated that investigators have not yet
+determined the cause of the blaze. Seven bodies were reportedly recovered,
+although officials declined to identify the victims pending notification of
+their families.
+</p>
+
+<p>
+Sheriff's deputies have asked residents to avoid the area while investigators
+continue their examination of the site.
+</p>
+
+</article>
+
+
+<figure>
+
+<img src="../images/cooper-mill.jpg" alt="Cooper Mill">
+
+<figcaption>
+
+Figure 1.
+Cooper Textile Mill following the fire.
+
+Graywood County Historical Society Collection.
+
+</figcaption>
+
+</figure>
+
+
+<div class="archivist">
+
+<h3>Archivist's Note</h3>
+
+<p>
+
+This document was digitized from the original newspaper microfilm in 2007.
+
+Minor discoloration and print imperfections have been preserved.
+
+</p>
+
+</div>
+
+
+<div class="related">
+
+<h3>Related Documents</h3>
+
+<ul>
+
+<li><a href="#">Police Report 731-A</a></li>
+
+<li><a href="#">County Fire Department Log</a></li>
+
+<li><a href="#">Hospital Admission Register</a></li>
+
+<li><a href="#">Photograph Collection 1932-06</a></li>
+
+</ul>
+
+</div>
+
+</main>
+
+
+<footer>
+
+<hr>
+
+<p>
+
+Graywood County Digital Archive
+
+Preserving Municipal Records Since 1988
+
+</p>
+
+<p>
+
+© 2026 Graywood County Archive
+
+</p>
+
+</footer>
+
+</div>
+
+</body>
+</html>
